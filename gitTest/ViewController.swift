@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     let test = ""
+    let test2 = 3
     
 
     override func viewDidLoad() {
