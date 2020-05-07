@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     let test = ""
     let test2 = 3
+    let test3 = 3
     
 
     override func viewDidLoad() {
