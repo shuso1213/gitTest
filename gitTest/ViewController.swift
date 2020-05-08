@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     let test2 = 3
     let test3 = 3
     let test4 = 3
+    var original:String!
 
     override func viewDidLoad() {
         super.viewDidLoad()
